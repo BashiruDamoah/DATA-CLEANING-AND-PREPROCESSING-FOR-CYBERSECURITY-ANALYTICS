@@ -4,7 +4,7 @@ This project aims to develop practical competence in cleaning, standardizing, fi
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 Raw cybersecurity datasets are rarely ready for direct analysis or machine learning. This project demonstrates a complete preprocessing pipeline that transforms a noisy, inconsistent network traffic dataset into a clean, validated dataset suitable for intrusion detection and anomaly analysis.
 
